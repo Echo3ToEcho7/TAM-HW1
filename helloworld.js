@@ -1,1 +1,3 @@
-console.log("Hello, world!");
+var util = require("util");
+
+util.print("Hello, world!");
